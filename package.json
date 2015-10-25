@@ -1,6 +1,6 @@
 {
   "name": "apikeypair",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tiny module to generate id and secret pairs",
   "main": "index.js",
   "directories": {

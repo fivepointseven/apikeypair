@@ -8,7 +8,7 @@ Output looks like this:
 }
 ```
 
-##Usage
+##Usage##
 
 Install with:
 ```bash
@@ -38,7 +38,7 @@ apikeypair.calc('SOME-RANDOM-ID', function(err, keypair) {
 
 ```
 
-###Methods
+###Methods###
 
 - ```gen(callback)``` - generate random ID and Secret asynchronously
 - ```genSync()``` - generate random ID and Secret synchronously
