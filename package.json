@@ -1,6 +1,6 @@
 {
   "name": "apikeypair",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny module to generate id and secret pairs",
   "main": "index.js",
   "directories": {
@@ -28,6 +28,5 @@
   "bugs": {
     "url": "https://github.com/fivepointseven/apikeypair/issues"
   },
-  "homepage": "https://github.com/fivepointseven/apikeypair#readme",
-  "readme": "README.md"
+  "homepage": "https://github.com/fivepointseven/apikeypair#readme"
 }
